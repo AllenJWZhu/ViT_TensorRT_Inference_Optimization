@@ -2,7 +2,7 @@
 
 At the end of October 2020, Vision Transformers (ViT) was proposed by the Google Brain team in the paper “AN IMAGE IS WORTH 16X16 WORDS: TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE ViT is a model that applies the Transformer architecture to computer vision tasks.
 
-! [ViT paper] (. \ViT-paper.png)
+![ViT paper](ViT-paper.png)
 
 Transformer was originally designed for Natural Language Processing (NLP) tasks, but ViT has successfully extended it to visual tasks such as image categorization, with very good results. The release of this result provides a crucial boost to the currently hot multimodal macromodeling.
 
@@ -31,7 +31,7 @@ ViT is mainly used for the following computer vision tasks:
 
 ### 1.2 How ViT works.
 
-! [vit-structure] (. \ViT-model-structure.png)
+![vit-structure](ViT-structure.png)
 
 The working principle of ViT mainly includes the following steps:
 
