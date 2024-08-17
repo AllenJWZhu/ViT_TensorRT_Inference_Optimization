@@ -42,7 +42,3 @@ The working principle of ViT mainly includes the following steps:
 2. **Position Embedding**:
    - Since the Transformer does not have built-in position information, position encoding needs to be added to preserve the position information of the small blocks in the image.
    - The position encoding is added to the small block embedding vectors to form the input sequence.
-
-3. **Transfor
-
-Translated with DeepL.com (free version)
